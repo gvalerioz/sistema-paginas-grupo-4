@@ -5,11 +5,15 @@
  *     Mantenha uma vírgula ao final do item anterior e adicione o seu na linha de baixo.
  *
  *     Formato:
- *       { nome: "Seu Nome Completo", github: "seu-usuario-github" },
+ *       { nome: "Seu Nome Completo", github: "seu-usuario-github" }
  */
 const equipe: { nome: string; github: string }[] = [
   // ====== INÍCIO DA ÁREA DE EDIÇÃO COLABORATIVA ======
+<<<<<<< HEAD
+  { nome: "Gabriela Valério de Barros", github: "gvalerioz"  } 
+=======
 {nome:"Lorena Vitória Lobo Lacerda" , github:"lorena301716"},
+>>>>>>> origin/main
   // ====== FIM DA ÁREA DE EDIÇÃO COLABORATIVA ======
 ];
 
