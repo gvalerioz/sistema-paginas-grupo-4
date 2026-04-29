@@ -1,11 +1,14 @@
 <<<<<<< HEAD
 node_modules
 =======
+<<<<<<< HEAD
+node_modules
+=======
 # dependencies
 /node_modules
 /.pnp
 .pnp.js
-
+.next
 # testing
 /coverage
 
@@ -34,4 +37,5 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+>>>>>>> origin/main
 >>>>>>> origin/main
